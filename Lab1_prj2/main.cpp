@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello, cat!" << endl;
+    cout << "Programação!" << endl;
+    cout << "É" << endl;
+    cout << "Muito" << endl;
+    cout << "Bom" << endl;
     return 0;
 }
